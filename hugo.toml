@@ -1,0 +1,8 @@
+baseURL = "https://nnnewsr.pages.dev/"
+languageCode = "en"
+title = "NNNEWSR®"
+theme = "hugo-bearblog"
+
+[params]
+  author = "Regalia Coma"
+  description = "The latest news and update about Apple."
